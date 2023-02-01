@@ -1,21 +1,13 @@
-#
-# Copyright (C) 2021-2022 by TeamYukki@Github, < https://github.com/TeamYukki >.
-#
-# This file is part of < https://github.com/TeamYukki/YukkiMusicBot > project,
-# and is released under the "GNU v3.0 License Agreement".
-# Please see < https://github.com/TeamYukki/YukkiMusicBot/blob/master/LICENSE >
-#
-# All rights reserved.
 
-HELP_1 = """✅**<u>Admin Commands:</u>**
+HELP_1 = """✅**<u>Admin Əmrləri:</u>**
 
 **c** stands for channel play.
 
-/pause or /cpause - Pause the playing music.
-/resume or /cresume- Resume the paused music.
-/mute or /cmute- Mute the playing music.
-/unmute or /cunmute- Unmute the muted music.
-/skip or /cskip- Skip the current playing music.
+/pause or /cpause - Oxunan musiqini dayandırın.
+/resume or /cresume- Dayandırılmış musiqini davam etdirin.
+/mute or /cmute- Oxunan musiqinin səsini söndürün.
+/unmute or /cunmute- Səssizə alınan musiqinin səsini açın.
+/skip or /cskip- İfa olunan musiqini keçin.
 /stop or /cstop- Stop the playing music.
 /shuffle or /cshuffle- Randomly shuffles the queued playlist.
 /seek or /cseek - Forward Seek the music to your duration
