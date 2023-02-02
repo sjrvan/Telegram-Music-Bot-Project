@@ -1,19 +1,19 @@
 
 HELP_1 = """✅**<u>Admin Əmrləri:</u>**
 
-**c** stands for channel play.
+**c** Kanal oynatmağı nəzərdə tutur.
 
-/pause or /cpause - Oxunan musiqini dayandırın.
-/resume or /cresume- Dayandırılmış musiqini davam etdirin.
-/mute or /cmute- Oxunan musiqinin səsini söndürün.
-/unmute or /cunmute- Səssizə alınan musiqinin səsini açın.
-/skip or /cskip- İfa olunan musiqini keçin.
-/stop or /cstop- Stop the playing music.
-/shuffle or /cshuffle- Randomly shuffles the queued playlist.
-/seek or /cseek - Forward Seek the music to your duration
-/seekback or /cseekback - Backward Seek the music to your duration
-/restart - Restart bot for your chat .
+/pause və ya /cpause - Oxunan musiqini dayandırın.
+/resume və ya /cresume- Dayandırılmış musiqini davam etdirin.
+/mute və ya /cmute- Oxunan musiqinin səsini söndürün.
+/unmute və ya /cunmute- Səssizə alınan musiqinin səsini açın.
+/skip və ya /cskip- İfa olunan musiqini keçin.
+/stop or /cstop- Musiqi ifa etməni dayandırın.
+/shuffle və ya /cshuffle- Sıraya qoyulmuş pleylisti təsadüfi qarışdır.
+/seek və ya /cseek - İrəli Musiqini öz müddətinizə qədər axtarın.
 
+/seekback və ya /cseekback - Geriyə Musiqini müddətinizə qədər axtarın.
+/restart - Botu yenidən başladın.
 
 ✅<u>**Specific Skip:**</u>
 /skip or /cskip [Number(example: 3)] 
